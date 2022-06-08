@@ -12,7 +12,7 @@ Usage:
 - The gnu89 variant of the gcc compiler.
 - [Betty Coding style.](https://github.com/holbertonschool/Betty)
 
-### Project Contributors:
+### Project Contributors
 
 - [@BeccaQ](https://github.com/BeccaQ/)
 - [@Osoraa](https://github.com/Osoraa/)
