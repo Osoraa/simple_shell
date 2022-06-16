@@ -1,5 +1,12 @@
 #include "main.h"
 
+/**
+ * main - Program entry point.
+ * @argc: Command line argument count.
+ * @argv: Command line argument vector.
+ *
+ * Return: 0 on success, -1 on error.
+ */
 int main(int argc, char *argv[])
 {
 	FILE *stream;

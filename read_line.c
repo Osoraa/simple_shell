@@ -1,5 +1,10 @@
 #include "main.h"
 
+/**
+ * main - Program entry point.
+ *
+ * Return: 0 on success, 1 on error.
+ */
 int main(void)
 {
 	char *lineptr = NULL;
