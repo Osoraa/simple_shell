@@ -1,9 +1,8 @@
 # Added by me
 .vscode
-_putchar.c
 temp
 demo.c
-test/
+# test/
 
 # Prerequisites
 *.d
