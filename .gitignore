@@ -2,7 +2,7 @@
 .vscode
 temp
 demo.c
-# test/
+test/
 
 # Prerequisites
 *.d
