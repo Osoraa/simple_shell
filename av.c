@@ -14,7 +14,10 @@ int main(int ac, char **av)
 	(void) ac;
 
 	for (; av[i]; i++)
-		write(STDOUT_FILENO, av[i], _strlen_recursion(av[i]));
+	{
+		write(STDOUT_FILENO, av[i], _strlen(av[i]));
+		_putchar('\n');
+	}
 
 	return (0);
 }
